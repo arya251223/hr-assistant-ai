@@ -1,0 +1,51 @@
+JOHN DOE
+Software Engineer
+Email: john.doe@email.com | Phone: +1-555-0123
+LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced Software Engineer with 5+ years of expertise in full-stack development,
+cloud architecture, and agile methodologies. Proven track record of delivering
+scalable applications and leading cross-functional teams.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, TypeScript, Java
+- Frontend: React, Vue.js, HTML5, CSS3
+- Backend: Node.js, Django, Flask, Spring Boot
+- Cloud: AWS (EC2, S3, Lambda), Azure
+- Databases: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Kubernetes, CI/CD, GitHub Actions
+- Tools: Git, JIRA, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Corp Inc | 2021 - Present
+- Led development of microservices architecture serving 1M+ users
+- Reduced API response time by 40% through optimization
+- Mentored 3 junior developers
+- Implemented CI/CD pipeline reducing deployment time by 60%
+
+Software Engineer | StartupXYZ | 2019 - 2021
+- Developed RESTful APIs using Python Django
+- Built responsive web applications with React
+- Collaborated with product team on feature planning
+- Maintained 95%+ code coverage through unit testing
+
+Junior Developer | WebSolutions Ltd | 2018 - 2019
+- Developed and maintained client websites
+- Fixed bugs and implemented new features
+- Participated in code reviews
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2014 - 2018
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2022)
+- Certified Scrum Master (2021)
+
+PROJECTS
+- Open source contributor to popular Python libraries
+- Built personal portfolio website with Next.js
+- Developed mobile app with 10K+ downloads

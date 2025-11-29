@@ -1,0 +1,50 @@
+system:
+  name: "HR Multi-Agent Intelligence Suite"
+  version: "1.0.0"
+  max_retries: 3
+  timeout: 30
+
+agents:
+  hr_assistant:
+    name: "HR Assistant"
+    model: "phi3:3.8b"
+    temperature: 0.3
+    max_tokens: 1024
+    
+  resume_screening:
+    name: "Resume Screening Agent"
+    model: "deepseek-r1:1.5b"
+    temperature: 0.2
+    max_tokens: 2048
+    
+  interview:
+    name: "Interview Agent"
+    model: "phi3:3.8b"
+    temperature: 0.5
+    max_tokens: 1024
+    
+  onboarding:
+    name: "Onboarding Agent"
+    model: "phi3:3.8b"
+    temperature: 0.3
+    max_tokens: 1024
+    
+  doc_verification:
+    name: "Document Verification Agent"
+    model: "deepseek-r1:1.5b"
+    temperature: 0.1
+    max_tokens: 2048
+    
+  analytics:
+    name: "HR Analytics Agent"
+    model: "deepseek-r1:1.5b"
+    temperature: 0.2
+    max_tokens: 2048
+
+workflow:
+  pipeline_stages:
+    - resume_screening
+    - doc_verification
+    - interview
+    - onboarding
+    - analytics

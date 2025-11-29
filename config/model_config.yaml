@@ -1,0 +1,31 @@
+# Model Configuration for HR Multi-Agent System
+
+models:
+  ollama:
+    base_url: "http://localhost:11434"
+    models:
+      reasoning: "deepseek-r1:1.5b"
+      chat: "phi3:3.8b"
+  
+  openai:
+    api_key_env: "OPENAI_API_KEY"
+    default_model: "gpt-4"
+  
+  google:
+    api_key_env: "GOOGLE_API_KEY"
+    default_model: "gemini-pro"
+
+routing:
+  reasoning_tasks:
+    tasks:
+      - resume_screening
+      - doc_verification
+      - analytics
+    model: "deepseek-r1:1.5b"
+  
+  chat_tasks:
+    tasks:
+      - hr_assistant
+      - interview
+      - onboarding
+    model: "phi3:3.8b"

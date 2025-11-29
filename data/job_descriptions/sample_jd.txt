@@ -1,0 +1,65 @@
+JOB TITLE: Senior Software Engineer
+
+COMPANY: Innovation Tech Labs
+
+LOCATION: Remote / San Francisco, CA
+
+JOB TYPE: Full-time
+
+ABOUT US:
+Innovation Tech Labs is a fast-growing technology company building next-generation
+cloud solutions for enterprise customers. We value innovation, collaboration, and
+continuous learning.
+
+JOB DESCRIPTION:
+We are seeking an experienced Senior Software Engineer to join our engineering team.
+You will work on designing and building scalable microservices, mentor junior engineers,
+and contribute to architectural decisions.
+
+RESPONSIBILITIES:
+- Design, develop, and maintain scalable backend services
+- Build RESTful APIs and microservices using Python or Node.js
+- Collaborate with cross-functional teams (Product, Design, QA)
+- Write clean, maintainable, and well-tested code
+- Conduct code reviews and mentor junior developers
+- Participate in system design and architectural discussions
+- Optimize application performance and scalability
+- Implement CI/CD pipelines and DevOps best practices
+
+REQUIRED QUALIFICATIONS:
+- 5+ years of software development experience
+- Strong proficiency in Python or Node.js
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Solid understanding of microservices architecture
+- Experience with SQL and NoSQL databases
+- Proficiency with Git and version control
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+PREFERRED QUALIFICATIONS:
+- Experience with Kubernetes and Docker
+- Knowledge of React or Vue.js for frontend work
+- Familiarity with event-driven architecture
+- Experience with message queues (RabbitMQ, Kafka)
+- Understanding of security best practices
+- Open source contributions
+
+TECHNICAL SKILLS:
+- Languages: Python, JavaScript, TypeScript
+- Frameworks: Django, Flask, Express.js
+- Cloud: AWS (EC2, Lambda, S3, RDS)
+- Databases: PostgreSQL, MongoDB
+- Tools: Docker, Kubernetes, Jenkins, GitHub Actions
+- Methodologies: Agile, Scrum, TDD
+
+BENEFITS:
+- Competitive salary ($120K - $160K)
+- Health, dental, and vision insurance
+- 401(k) matching
+- Unlimited PTO
+- Remote work flexibility
+- Learning and development budget
+- Stock options
+
+TO APPLY:
+Send your resume and cover letter to careers@innovationtech.com
