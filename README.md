@@ -10,13 +10,6 @@ An enterprise-grade AI automation platform featuring **6 specialized agents** th
 
 ---
 
-## 📹 Demo
-
-**Live Demo Video**: [Watch on YouTube](#)  
-**Try it Live**: [Demo Site](#) (Coming soon)
-
----
-
 ## 🎯 Overview
 
 This project showcases a **production-ready multi-agent AI system** that automates time-consuming HR tasks. Unlike single-agent chatbots, this system uses **specialized agents** that collaborate through intelligent orchestration to deliver superior results.
@@ -156,7 +149,7 @@ Each agent is optimized for specific tasks:
 
 #### Step 2: Install
 
-```bash
+
 # Clone
 git clone https://github.com/arya251223/hr-assistant-ai.git
 cd hr-assistant-ai
@@ -198,7 +191,6 @@ Option 2: Ollama (Local & Private)
 Step 1: Install Ollama
 macOS/Linux:
 
-Bash
 
 curl https://ollama.ai/install.sh | sh
 Windows: Download from ollama.ai
@@ -212,8 +204,6 @@ ollama pull phi3:3.8b
 # Verify
 ollama list
 Should show:
-
-text
 
 deepseek-r1:1.5b    900 MB
 phi3:3.8b           2.3 GB
